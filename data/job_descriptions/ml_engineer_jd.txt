@@ -1,0 +1,18 @@
+Job Title: Senior Machine Learning Engineer
+
+About the Role:
+We are looking for a Senior Machine Learning Engineer to join our Core AI team. You will lead the design, implementation, and deployment of semantic search and NLP models.
+
+Required Skills & Qualifications:
+- 3+ years of professional experience in machine learning or software engineering.
+- Deep expertise in Python, SQL, and Git.
+- Practical experience with Deep Learning frameworks, specifically PyTorch or TensorFlow.
+- Experience with containerization technologies like Docker.
+- Strong educational background: Bachelor's (B.Tech/B.E./B.S.) or Master's (M.Tech/M.S.) degree in Computer Science or related fields.
+
+Preferred Skills & Qualifications:
+- Familiarity with cloud platforms, especially AWS.
+- Experience deploying machine learning applications using Streamlit or Flask.
+- Knowledge of NLP, BERT, and Large Language Models (LLMs).
+
+Join us in building the future of recruitment tech!
